@@ -6,7 +6,7 @@ function App() {
     
     <div className="App">
       <div className='contenedor-principal'>
-        <h1>Esto es lo que nuestros alumnos dicen de nosotros</h1>
+        <h1>Frases de personas reconocidas en el desarrollo de software</h1>
         <Testimonio 
         nombre='Bill Gates'
         pais='Usa'
